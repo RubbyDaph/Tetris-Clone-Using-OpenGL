@@ -6,14 +6,14 @@ I'm currently making this tetris clone using SDL2 + OpenGL and Dear ImGui as a u
 
 For now there is only controls, collision with the borders and an implementation for spawning new blocks. In the future i'm planning to add collision with the blocks as well.
 
-[x] Controls
-[x] Collision with the borders
-[x] Spawning new blocks
-[ ] Blocks collision
-[ ] Block hold system
-[ ] Window with the next block
-[ ] Score system
-[ ] GUI updates
+- [x] Controls
+- [x] Collision with the borders
+- [x] Spawning new blocks
+- [ ] Blocks collision
+- [ ] Block hold system
+- [ ] Window with the next block
+- [ ] Score system
+- [ ] GUI updates
 
 
 ## Brief Look At The Game
