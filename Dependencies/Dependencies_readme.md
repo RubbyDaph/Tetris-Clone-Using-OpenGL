@@ -1,3 +1,3 @@
 # Dependencies In Order To Run EXE
 
-These files and folders are needed to run the app.
+The "Dependencies" folder is meant to contain all the files in one place that are needed to run the app.
