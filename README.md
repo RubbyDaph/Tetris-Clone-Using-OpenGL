@@ -18,7 +18,7 @@ For now there is only controls, collision with the borders and an implementation
 
 ## Brief Look At The Game
 
-![](Screenshot_dir/Game_Screenshot.jpg)
+![](Screenshot_Dir/Game_Screenshot.jpg)
 
 Dependencies:
 
