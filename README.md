@@ -31,3 +31,5 @@ Frameworks and API used in project
 - OpenGL 3.3 + glad
 
 - Dear ImGui [Official repo](https://github.com/ocornut/imgui)
+
+- [Dependencies](DEPENDENCIES.md)
