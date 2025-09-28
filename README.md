@@ -18,3 +18,7 @@ App is built with:
 - SDL2-devel-2.32.8-mingw
 - OpenGL 3.3
 - Dear ImGui [Official Repo](https://github.com/ocornut/imgui)
+
+## How Game Looks
+
+![screenshot](ScreenShots/ScreenShot.jpg)
