@@ -6,8 +6,15 @@ Before last commit there was no collision for blocks, only collision with border
 
 ## Check List
 
-[x] Collision For Blocks
-[ ] Deleting Lines When The Line Is Full
-[ ] Score System
-[ ] Block Hold system
+- [x] Collision For Blocks
+- [ ] Deleting Lines When The Line Is Full
+- [ ] Score System
+- [ ] Block Hold system
 
+## Dependencies
+
+App is built with:
+- MinGW
+- SDL2-devel-2.32.8-mingw
+- OpenGL 3.3
+- Dear ImGui [Official Repo](https://github.com/ocornut/imgui)
