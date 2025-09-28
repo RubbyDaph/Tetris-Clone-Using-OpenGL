@@ -2048,7 +2048,7 @@ void Update_Ground()
     }
 }
 
-void Print_Ground()
+void Print_Ground() //used to debug things
 {
     for (int i = 0 ; i < 20; i++)
     {

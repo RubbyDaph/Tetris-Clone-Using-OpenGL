@@ -47,7 +47,7 @@ void Drop_Input(const Uint8* KeyStates);
 
 int main(int, char**)
 {
-    //ShowWindow(GetConsoleWindow(), SW_HIDE);
+    ShowWindow(GetConsoleWindow(), SW_HIDE);
     std::srand(std::time(nullptr));
 
     SDL_GL_SetAttribute(SDL_GL_CONTEXT_FLAGS, 0);
@@ -127,7 +127,6 @@ int main(int, char**)
             if (On_ground_timer == 1)
             {
                 Update_Ground();
-                Print_Ground();
                 game_quad.Block_spawn();
             }
             On_ground_timer = 0;
@@ -137,7 +136,6 @@ int main(int, char**)
             if (Check_All_Collision_Below())
                 {
                     Update_Ground();
-                    Print_Ground();
                     game_quad.Block_spawn();
                 }
          }
