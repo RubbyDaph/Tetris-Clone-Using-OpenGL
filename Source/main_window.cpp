@@ -63,5 +63,5 @@ void pause_button(bool &pause_menu_window)
 void title_text(SDL_Window* window)
 {
     ImGui::SetCursorPos(ImVec2(get_render_window_size(window).x/2 - 30.f , 44.f));
-    ImGui::Text("DooDonya");
+    ImGui::Text("Tetris Clone");
 }
