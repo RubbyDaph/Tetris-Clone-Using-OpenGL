@@ -10,3 +10,4 @@ void main()
 {
     FragColor = texture(tex0, texCoord);
 }
+
