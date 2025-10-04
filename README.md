@@ -8,8 +8,6 @@ Before last commit there was no collision for blocks, only collision with border
 
 - [x] Collision For Blocks
 - [ ] Deleting Lines When The Line Is Full
-- [ ] Score System
-- [ ] Block Hold system
 
 ## Dependencies
 
@@ -22,3 +20,9 @@ App is built with:
 ## How Game Looks
 
 ![screenshot](ScreenShots/ScreenShot.jpg)
+
+## Controls
+
+- To move left and right - Arrow keys right and left
+
+- To rotate - A and D
